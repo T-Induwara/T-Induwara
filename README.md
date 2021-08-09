@@ -1,9 +1,6 @@
 <h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Tharusha Induwara</h1>
 <h3 align="center">UI design enthusiast and frontend web developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-induwara&label=Profile%20views&color=0e75b6&style=flat" alt="t-induwara" /> </p>
-
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-induwara&show_icons=true&theme=dracula&title_color=61b7db&text_color=ffffff&bg_color=616161&hide_border=true&locale=en" alt="t-induwara" /></p>
 
 <h2> About Me 😃🤟🏻</h2>
