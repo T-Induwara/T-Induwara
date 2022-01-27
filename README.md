@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **JavaScript, React JS and jQuery**
 
-- 👨‍💻 All of my projects are available at [www.slgplay.net](www.slgplay.net)
+- 👨‍💻 All of my projects are available at (www.slgplay.net)
 
 - 📫 How to reach me **tharusha.induwar@gmail.com**
 
-- 📄 Wanna know about my experiences [www.slgplay.net/about/](www.slgplay.net/about)
+- 📄 Wanna know about my experiences (www.slgplay.net/about)
 <br />
 <h2 align="left">Connect with me: 🤝🏻</h2>
 <p align="left">
