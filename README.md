@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tharusha.induwar@gmail.com**
 
-- 📄 Know about my experiences [www.timax.slgplay.net](www.timax.slgplay.net)
+- 📄 Wanna know about my experiences [www.slgplay.net/about/](www.slgplay.net/about)
 <br />
 <h2 align="left">Connect with me: 🤝🏻</h2>
 <p align="left">
