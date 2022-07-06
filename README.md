@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src = "https://github.com/T-Induwara/T-Induwara/blob/main/assets/maneki-cat.apng" width = 50px>, I'm Tharusha Induwara</h1>
+<h1 align="center">Hi! <img src = "https://github.com/T-Induwara/T-Induwara/blob/main/assets/bye.png" width = "40px">, I'm Tharusha Induwara</h1>
 <h3 align="center">UI design enthusiast and frontend web developer</h3>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-induwara&show_icons=true&theme=dracula&title_color=61b7db&text_color=ffffff&bg_color=616161&hide_border=true&locale=en" alt="t-induwara" /></p>
