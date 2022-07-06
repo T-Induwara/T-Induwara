@@ -32,4 +32,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-induwara&show_icons=true&theme=dracula&title_color=61b7db&text_color=ffffff&bg_color=616161&hide_border=true&locale=en&layout=compact" alt="t-induwara" /></p>
 <br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-induwara&theme=dark" alt="t-induwara" /></p>
