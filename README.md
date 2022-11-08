@@ -18,5 +18,3 @@ Welcome to my GitHub acc ; ). You may wonder who is this guy. So, let me introdu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=T-Induwara&icon=8&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
