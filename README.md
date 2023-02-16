@@ -1,10 +1,10 @@
 ### 💫 About Me:
 Welcome to my GitHub acc ; ). You may wonder who is this guy. So, let me introduce myself first without leaving your own world of doubts.<br>
 <br>let personalInfo{
-<br> &emsp;&emsp; Name : Tharusha Induwara,
-<br> &emsp;&emsp; Position : Web developer & UI Design Enthusiast,
-<br> &emsp;&emsp; Educational background : Undergraduate of Sri Lanka Institute of Information Technology (SLIIT),
-<br> &emsp;&emsp; Country : Sri Lanka
+<br> &emsp;&emsp; Name : "Tharusha Induwara",
+<br> &emsp;&emsp; Position : "Web developer & UI Design Enthusiast",
+<br> &emsp;&emsp; Educational background : "Undergraduate of Sri Lanka Institute of Information Technology (SLIIT)",
+<br> &emsp;&emsp; Country : "Sri Lanka"
 <br>}
 
 
