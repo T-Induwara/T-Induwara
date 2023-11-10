@@ -33,4 +33,4 @@ The Languages I use most of the times &emsp;&emsp;&emsp;&emsp;: ![JavaScript](ht
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=T-Induwara&icon=8&color=9)](https://visitcount.itsvg.in)
+
