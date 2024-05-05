@@ -29,8 +29,5 @@ The Languages I use most of the times &emsp;&emsp;&emsp;&emsp;: ![JavaScript](ht
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
