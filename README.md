@@ -1,4 +1,16 @@
-<h2 align="left">About me👋🏻</h2>
+<br clear="both">
+
+<h1 align="center">🔺GG WP ^_^🔻</h1>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611mz4sdst2e26pb6mtf75zjfxb7o1ty3nq8wbo43um&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<h3 align="left">About me👋🏻</h3>
 
 ###
 
@@ -13,9 +25,15 @@
 
 ###
 
+<h3 align="left">I am working with💢</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -37,19 +55,16 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611mz4sdst2e26pb6mtf75zjfxb7o1ty3nq8wbo43um&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="center">
 </div>
 
 ###
 
-<div align="center">
-</div>
+<h3 align="left">Connect with me🌐</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/_t1maxx_/" target="_blank">
@@ -65,8 +80,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/t-induwara/t-induwara/output/snake.svg" alt="Snake animation" />
+<div align="center">
+</div>
 
 ###
